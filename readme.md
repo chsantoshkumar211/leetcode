@@ -2,4 +2,4 @@
 
 Language : Python 3
 
-challenges solved : 2
+challenges solved : 4
